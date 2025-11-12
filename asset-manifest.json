@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/patriciafernandesuiux-bit/-post-it-notes/static/css/main.acf96468.css",
-    "main.js": "/patriciafernandesuiux-bit/-post-it-notes/static/js/main.7f5fad5a.js",
-    "index.html": "/patriciafernandesuiux-bit/-post-it-notes/index.html",
-    "main.acf96468.css.map": "/patriciafernandesuiux-bit/-post-it-notes/static/css/main.acf96468.css.map",
-    "main.7f5fad5a.js.map": "/patriciafernandesuiux-bit/-post-it-notes/static/js/main.7f5fad5a.js.map"
+    "main.css": "/-post-it-notes/static/css/main.acf96468.css",
+    "main.js": "/-post-it-notes/static/js/main.7f5fad5a.js",
+    "index.html": "/-post-it-notes/index.html",
+    "main.acf96468.css.map": "/-post-it-notes/static/css/main.acf96468.css.map",
+    "main.7f5fad5a.js.map": "/-post-it-notes/static/js/main.7f5fad5a.js.map"
   },
   "entrypoints": [
     "static/css/main.acf96468.css",
